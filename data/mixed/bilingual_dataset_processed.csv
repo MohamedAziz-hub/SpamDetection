@@ -1,0 +1,121 @@
+message,label,language,cleaned_message,label_num
+Félicitations ! Vous avez gagné 1 000 000 € à notre loterie !,spam,fr,félicit gagn loter,1
+Prêt urgent sans frais. Obtenez 5000 € immédiatement.,spam,fr,prêt urgent san frais obten immédiat,1
+Perdez 10 kg en 2 semaines sans effort. Produit miracle !,spam,fr,perd semain san effort produit miracl,1
+URGENT: Votre compte bancaire a été suspendu. Vérifiez maintenant.,spam,fr,urgent compt bancair suspendu vérif mainten,1
+Travail à domicile: Gagnez 5000 € par mois sans expérience.,spam,fr,travail domicil gagn mois san expérient,1
+iPhone gratuit ! Payez seulement 10 € de frais de port.,spam,fr,iphon gratuit pai seul frais port,1
+Investissement crypto: Doublez votre argent en 24h garantie !,spam,fr,invest crypto doubl argent garant,1
+Vous êtes sélectionné pour un voyage gratuit aux Maldives !,spam,fr,sélection voyag gratuit maldiv,1
+Médicament secret que les médecins cachent au public.,spam,fr,médic secret médecin cachent public,1
+Crédit immédiat sans justification. Appelez vite !,spam,fr,cred immédiat san justif appel vit,1
+Alerte sécurité: Votre compte a été compromis. Cliquez ici.,spam,fr,alert sécur compt comprom cliqu ici,1
+Gagnez argent facilement depuis votre canapé. Démarrage immédiat.,spam,fr,gagn argent facil depuis canap démarrag immédiat,1
+Diplôme universitaire sans examen. Obtenez-le rapidement.,spam,fr,diplôm universitair san examen obtenezl rapid,1
+Produit anti-âge: Effacez 20 ans en 15 jours seulement.,spam,fr,produit antiâg effac an jour seul,1
+Visa Canada gratuit. Postulez maintenant avant fermeture.,spam,fr,vis canad gratuit postul mainten avant fermetur,1
+Héritage surprise: 250 000 € vous attendent. Répondez vite !,spam,fr,héritag surpris attendent répond vit,1
+Cartes crédit pré-approuvées sans vérification de revenu.,spam,fr,cart cred préapprouv san vérif revenu,1
+Logiciel trading: 300% profit mensuel garanti contrat signé.,spam,fr,logiciel trading prof mensuel garant contrat sign,1
+Stage rémunéré 200 €/jour. Travaillez de chez vous.,spam,fr,stag rémuner jour travaill chez,1
+Épargne garantie 15% rendement. Sans risque capital.,spam,fr,épargn garant rend san risqu capital,1
+Téléphone portable dernier cri gratuit. Offre limitée.,spam,fr,téléphon portabl derni cri gratuit offre limit,1
+Maison à 1 €. Programme gouvernemental secret. Découvrez !,spam,fr,maison programm gouvernemental secret découvr,1
+Assurance vie gratuite. Protégez votre famille maintenant.,spam,fr,assur vi gratuit proteg famill mainten,1
+Énergie libre: Réduisez facture électricité 90%. Méthode secrète.,spam,fr,énerg libr réduis factur électr méthod secret,1
+Recrutement: Ambassadeurs marque. Salaire fixe + primes.,spam,fr,recrut ambassadeur marqu salair fix prim,1
+Cryptomonnaie: Investissez maintenant et devenez millionnaire.,spam,fr,cryptomonnai invest mainten deven millionnair,1
+Formation trading offerte. Devenez expert en 7 jours.,spam,fr,format trading offert deven expert jour,1
+Achat groupé: iPhone 50% moins cher. Stocks limités.,spam,fr,achat group iphon moin cher stock limit,1
+Bonus exceptionnel: 500 € offerts pour ouverture compte.,spam,fr,bonus exceptionnel offert ouvertur compt,1
+Parfum de luxe gratuit. Payez seulement l'expédition.,spam,fr,parfum lux gratuit pai seul lexpédit,1
+"Bonjour, comment allez-vous aujourd'hui ?",ham,fr,bonjour comment allezvous aujourdhui,0
+"Merci pour votre email, je vous réponds bientôt.",ham,fr,merc email répond bientôt,0
+Pouvez-vous m'appeler quand vous êtes disponible ?,ham,fr,pouvezvous mappel quand disponibl,0
+La réunion est prévue pour demain à 14 heures.,ham,fr,réunion prévu demain heur,0
+Je serai en retard pour le dîner ce soir.,ham,fr,retard dîn soir,0
+Joyeux anniversaire ! Passez une bonne journée.,ham,fr,joyeux anniversair pass bon journ,0
+Veuillez trouver ci-joint le document demandé.,ham,fr,veuill trouv cijoint docu demand,0
+"Salut, on se voit samedi pour le déjeuner ?",ham,fr,salut voit samed déjeun,0
+Le rapport sera prêt pour la fin de semaine.,ham,fr,rapport prêt fin semain,0
+Merci de votre compréhension. Cordialement.,ham,fr,merc compréhens cordial,0
+Peux-tu m'envoyer le fichier quand tu as un moment ?,ham,fr,peuxtu menvoi fichi quand moment,0
+La réunion de lundi est annulée.,ham,fr,réunion lund annul,0
+As-tu reçu mon message d'hier ?,ham,fr,astu reçu messag dhi,0
+On se retrouve où pour le cinéma ce soir ?,ham,fr,retrouv cinem soir,0
+N'oublie pas d'acheter le pain en rentrant.,ham,fr,noubl dachet pain rentr,0
+Le médecin a confirmé le rendez-vous pour vendredi.,ham,fr,médecin confirm rendezvous vendred,0
+J'ai réservé la salle pour la conférence.,ham,fr,jai réserv sall conférent,0
+Les enfants rentrent de l'école à 16h30.,ham,fr,enfant rentrent lécol,0
+Tu veux qu'on aille au restaurant ce weekend ?,ham,fr,veux quon aill restaur weekend,0
+"Le projet avance bien, merci pour ton aide.",ham,fr,projet avanc bien merc aid,0
+La météo annonce de la pluie pour demain.,ham,fr,météo annonc plui demain,0
+J'ai terminé la lecture du livre que tu m'as prêté.,ham,fr,jai termin lectur livr mas prêt,0
+Le train part à 18h45 de la gare centrale.,ham,fr,train part gar central,0
+Penses-tu venir à la fête d'anniversaire de Paul ?,ham,fr,pensestu ven fêt danniversair paul,0
+J'ai acheté les billets pour le concert.,ham,fr,jai achet billet concert,0
+La réparation de la voiture coûtera 350 €.,ham,fr,répar voitur coût,0
+Super idée pour les vacances ! J'adore le plan.,ham,fr,sup idé vacanc jador plan,0
+Mon frère arrive en visite ce weekend.,ham,fr,frer arriv visit weekend,0
+"Le colis est arrivé ce matin, merci !",ham,fr,colis arriv matin merc,0
+On se voit à l'entrée du métro à 19h ?,ham,fr,voit lentr métro,0
+"Congratulations! You won $1,000,000 in our lottery!",spam,en,congratul lotteri,1
+Urgent loan without fees. Get $5000 immediately.,spam,en,urgent loan without fee get immedi,1
+Lose 10 kg in 2 weeks without effort. Miracle product!,spam,en,lose week without effort miracl product,1
+URGENT: Your bank account has been suspended. Verify now.,spam,en,urgent bank account suspend verifi,1
+Work from home: Earn $5000 monthly without experience.,spam,en,work home earn monthli without experi,1
+Free iPhone! Pay only $10 shipping fees.,spam,en,free iphon pay ship fee,1
+Crypto investment: Double your money in 24h guaranteed!,spam,en,crypto invest doubl money guarante,1
+You are selected for a free trip to Maldives!,spam,en,select free trip maldiv,1
+Secret medicine that doctors hide from the public.,spam,en,secret medicin doctor hide public,1
+Instant credit without verification. Call now!,spam,en,instant credit without verif call,1
+Security alert: Your account has been compromised. Click here.,spam,en,secur alert account compromis click,1
+Make money easily from your couch. Start immediately.,spam,en,make money easili couch start immedi,1
+University degree without exams. Get it quickly.,spam,en,univers degre without exam get quickli,1
+Anti-aging product: Erase 20 years in just 15 days.,spam,en,antiag product eras year day,1
+Free Canada visa. Apply now before closing.,spam,en,free canada visa appli close,1
+"Surprise inheritance: $250,000 waiting for you. Reply fast!",spam,en,surpris inherit wait repli fast,1
+Pre-approved credit cards without income check.,spam,en,preapprov credit card without incom check,1
+Trading software: 300% monthly profit guaranteed signed contract.,spam,en,trade softwar monthli profit guarante sign contract,1
+Paid internship $200/day. Work from home.,spam,en,paid internship day work home,1
+Guanteed savings 15% return. No capital risk.,spam,en,guante save return capit risk,1
+Latest smartphone free. Limited offer.,spam,en,latest smartphon free limit offer,1
+House for $1. Secret government program. Discover!,spam,en,hous secret govern program discov,1
+Free life insurance. Protect your family now.,spam,en,free life insur protect famili,1
+Free energy: Reduce electricity bill 90%. Secret method.,spam,en,free energi reduc electr bill secret method,1
+Recruitment: Brand ambassadors. Fixed salary + bonuses.,spam,en,recruit brand ambassador fix salari bonus,1
+Cryptocurrency: Invest now and become millionaire.,spam,en,cryptocurr invest becom millionair,1
+Free trading training. Become expert in 7 days.,spam,en,free trade train becom expert day,1
+Group purchase: iPhone 50% cheaper. Limited stocks.,spam,en,group purchas iphon cheaper limit stock,1
+Exceptional bonus: $500 free for account opening.,spam,en,except bonu free account open,1
+Luxury perfume free. Pay only shipping.,spam,en,luxuri perfum free pay ship,1
+"Hello, how are you doing today?",ham,en,hello today,0
+"Thanks for your email, I'll reply soon.",ham,en,thank email ill repli soon,0
+Can you call me when you're available?,ham,en,call your avail,0
+The meeting is scheduled for tomorrow at 2 PM.,ham,en,meet schedul tomorrow,0
+I'll be late for dinner tonight.,ham,en,ill late dinner tonight,0
+Happy birthday! Have a great day.,ham,en,happi birthday great day,0
+Please find attached the requested document.,ham,en,pleas find attach request document,0
+"Hi, are we meeting for lunch on Saturday?",ham,en,meet lunch saturday,0
+The report will be ready by end of week.,ham,en,report readi end week,0
+Thanks for your understanding. Best regards.,ham,en,thank understand best regard,0
+Can you send me the file when you have a moment?,ham,en,send file moment,0
+Monday's meeting is cancelled.,ham,en,monday meet cancel,0
+Did you receive my message from yesterday?,ham,en,receiv messag yesterday,0
+Where should we meet for the cinema tonight?,ham,en,meet cinema tonight,0
+Don't forget to buy bread on your way home.,ham,en,dont forget buy bread way home,0
+The doctor confirmed the appointment for Friday.,ham,en,doctor confirm appoint friday,0
+I booked the room for the conference.,ham,en,book room confer,0
+The kids come back from school at 4:30 PM.,ham,en,kid come back school,0
+Do you want to go to the restaurant this weekend?,ham,en,want restaur weekend,0
+"The project is going well, thanks for your help.",ham,en,project go well thank help,0
+The weather forecast says rain for tomorrow.,ham,en,weather forecast say rain tomorrow,0
+I finished reading the book you lent me.,ham,en,finish read book lent,0
+The train departs at 6:45 PM from central station.,ham,en,train depart central station,0
+Are you coming to Paul's birthday party?,ham,en,come paul birthday parti,0
+I bought the tickets for the concert.,ham,en,bought ticket concert,0
+The car repair will cost $350.,ham,en,car repair cost,0
+Great idea for the holidays! I love the plan.,ham,en,great idea holiday love plan,0
+My brother is visiting this weekend.,ham,en,brother visit weekend,0
+"The package arrived this morning, thank you!",ham,en,packag arriv morn thank,0
+Shall we meet at the metro entrance at 7 PM?,ham,en,shall meet metro entranc,0
